@@ -1,0 +1,27 @@
+{
+    "name": "react-native-jailbreak-detect",
+    "version": "0.0.1",
+    "description": "Jailbreak Detect native module for react-native",
+    "main": "index.js",
+    "types": "index.d.ts",
+    "author": "nixstory@gmail.com",
+    "license": "MIT",
+    "keywords": [
+        "react-native",
+        "ios",
+        "android",
+        "jailbreak",
+        "rooting"
+    ],
+    "homepage": "http://reactspring.io",
+    "bugs": {
+        "url": "https://github.com/reactspring/react-native-jailbreak-detect/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/reactspring/react-native-jailbreak-detect.git"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    }
+}
